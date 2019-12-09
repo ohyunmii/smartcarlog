@@ -15,6 +15,8 @@ public class GenDrivingLog {
 
 	public static void main(String[] args) {
 		
+		System.out.println("test");
+		
 		PrintWriter printWriter = null;
 
 		try {
